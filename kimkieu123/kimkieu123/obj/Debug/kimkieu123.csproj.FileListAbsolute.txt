@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\kimkieu123\kimkieu123\obj\Debug\kimkieu123.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\kimkieu123\kimkieu123\bin\kimkieu123.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\kimkieu123\kimkieu123\bin\kimkieu123.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\kimkieu123\kimkieu123\bin\kimkieu123.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\kimkieu123\kimkieu123\obj\Debug\kimkieu123.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\kimkieu123\kimkieu123\obj\Debug\kimkieu123.pdb
