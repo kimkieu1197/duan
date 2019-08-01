@@ -1,0 +1,6 @@
+D:\Git\nguyenthikimkieu291097\nguyenthikimkieu291097\bin\nguyenthikimkieu291097.dll.config
+D:\Git\nguyenthikimkieu291097\nguyenthikimkieu291097\bin\nguyenthikimkieu291097.dll
+D:\Git\nguyenthikimkieu291097\nguyenthikimkieu291097\bin\nguyenthikimkieu291097.pdb
+D:\Git\nguyenthikimkieu291097\nguyenthikimkieu291097\obj\Debug\nguyenthikimkieu291097.csprojResolveAssemblyReference.cache
+D:\Git\nguyenthikimkieu291097\nguyenthikimkieu291097\obj\Debug\nguyenthikimkieu291097.dll
+D:\Git\nguyenthikimkieu291097\nguyenthikimkieu291097\obj\Debug\nguyenthikimkieu291097.pdb
