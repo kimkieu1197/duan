@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\kieu3954\kieu3954\bin\kieu3954.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\kieu3954\kieu3954\bin\kieu3954.dll
+c:\users\admin\documents\visual studio 2013\Projects\kieu3954\kieu3954\bin\kieu3954.pdb
+c:\users\admin\documents\visual studio 2013\Projects\kieu3954\kieu3954\obj\Debug\kieu3954.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\kieu3954\kieu3954\obj\Debug\kieu3954.dll
+c:\users\admin\documents\visual studio 2013\Projects\kieu3954\kieu3954\obj\Debug\kieu3954.pdb
